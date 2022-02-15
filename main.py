@@ -1,5 +1,4 @@
 # url = "bytebank.com/cambio?quantidade=100&moedaOrigem=real&moedaDestino=dolar"
-
 url = " "
 
 #Sanitização da Url
